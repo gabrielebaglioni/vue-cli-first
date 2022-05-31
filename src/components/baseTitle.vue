@@ -1,5 +1,5 @@
 <template>
-  <h1>TITOLO</h1>
+  <h1>Welcome vue.cli</h1>
 </template>
 
 <script>
